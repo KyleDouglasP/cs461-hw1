@@ -1,6 +1,6 @@
 # CS461 HW1 Samples
 
-Some code samples from Machine Learning Principles HW1, relating to the Central Limit Theorem, Naïve Bayes classification, and Data Whitening
+Some code samples from Machine Learning Principles HW1, relating to the Central Limit Theorem, Naïve Bayes classification, and Data Whitening.
 
 ## P2: Central Limit Theorem
 
