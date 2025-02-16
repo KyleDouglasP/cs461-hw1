@@ -22,7 +22,7 @@ The classifier is trained in kyleperry-nb-train.py, where train.csv is read thro
 
 ### Evaluation
 
-The actual classifier is in kyleperry-nb-cls.py, which is set to classify all of the Irises in test.csv, then evaluate itself for accuracy. This model was able to achieve 100% accuracy on the test set utilizing the sample statistics from training for Gaussian distributions
+The actual classifier is in kyleperry-nb-cls.py, which is set to classify all of the Irises in test.csv, then evaluate itself for accuracy. This model was able to achieve 100% accuracy on the test set utilizing the sample statistics from training for Gaussian distributions.
 
 ## P5: Data Whitening
 
