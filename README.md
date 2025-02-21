@@ -7,7 +7,7 @@ Some code samples from Machine Learning Principles HW1, relating to the Central 
 p2.py simulates a Galton board 1000 times with numpy.random, with user-inputted depth of M. The results are plotted with matplotlib.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KyleDouglasP/cs461-hw1/refs/heads/main/img/GaltonBoard.PNG?token=GHSAT0AAAAAAC7ATRU2TCDUOFVKBWILGZAKZ5RMRUA" />
+  <img src="https://raw.githubusercontent.com/KyleDouglasP/cs461-hw1/refs/heads/main/img/GaltonBoard.PNG" />
 </p>
 
 The histograms of each result showcase how as M increases (the number of Bernoulli random variables summed), the distribution of the binomial random variable should approach a Gaussian distribution, as per the Central Limit Theorem.
@@ -31,5 +31,5 @@ p5.py performs data whitening on x.npz, a 3x100000 matrix. This is done via calc
 The results of this whitening were plotted in 3D with matplotlib, to showcase how the data was effectively centered and scaled to become spherical (unit variance).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KyleDouglasP/cs461-hw1/refs/heads/main/img/Whitening.PNG?token=GHSAT0AAAAAAC7ATRU2WZMAXKLHOVMTEZXAZ5RMT6Q" />
+  <img src="https://raw.githubusercontent.com/KyleDouglasP/cs461-hw1/refs/heads/main/img/Whitening.PNG" />
 </p>
